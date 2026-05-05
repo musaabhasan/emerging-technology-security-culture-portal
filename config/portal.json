@@ -1,0 +1,86 @@
+{
+  "slug": "emerging-technology-security-culture-portal",
+  "title": "Emerging Technology Security Culture Portal",
+  "short_name": "ETSCP",
+  "tagline": "A readiness portal for aligning security culture with AI, IoT, cloud, edge, quantum, and zero-trust adoption.",
+  "book": {
+    "title": "Artificial Intelligence for Security Culture Transformation",
+    "author": "Musaab Hasan",
+    "url": "https://www.amazon.com/Artificial-Intelligence-Security-Culture-Transformation/dp/3639876954",
+    "alignment": "Chapter 16: Emerging Technologies and Their Impact on Security Culture",
+    "theme": "Technology-adaptive security culture, secure innovation, anticipatory controls, and responsible adoption."
+  },
+  "dimensions": [
+    {
+      "key": "ai_readiness",
+      "label": "AI Security Readiness",
+      "description": "Measures secure and responsible adoption of AI-enabled workflows.",
+      "weight": 1.25
+    },
+    {
+      "key": "iot_awareness",
+      "label": "IoT Awareness",
+      "description": "Tracks awareness of device, sensor, and operational technology risks.",
+      "weight": 0.95
+    },
+    {
+      "key": "cloud_edge_behavior",
+      "label": "Cloud and Edge Behavior",
+      "description": "Measures secure configuration, data handling, and shared responsibility.",
+      "weight": 1.15
+    },
+    {
+      "key": "zero_trust_mindset",
+      "label": "Zero-Trust Mindset",
+      "description": "Assesses identity-first, least-privilege, and verification behaviors.",
+      "weight": 1.1
+    },
+    {
+      "key": "quantum_preparedness",
+      "label": "Quantum Preparedness",
+      "description": "Tracks early awareness of cryptographic transition needs.",
+      "weight": 0.85
+    },
+    {
+      "key": "innovation_governance",
+      "label": "Innovation Governance",
+      "description": "Measures whether new technology decisions include risk and ethics checks.",
+      "weight": 1.2
+    }
+  ],
+  "workflows": [
+    "Assess readiness by emerging technology domain.",
+    "Identify culture gaps that could lead to shadow technology or unsafe adoption.",
+    "Create targeted interventions for teams adopting new platforms.",
+    "Review readiness as part of innovation governance and architecture boards."
+  ],
+  "initiatives": [
+    {
+      "title": "Responsible AI adoption checklist",
+      "owner": "Digital Transformation",
+      "status": "active",
+      "priority": "high",
+      "impact_area": "ai_readiness"
+    },
+    {
+      "title": "Cloud shared responsibility campaign",
+      "owner": "Cloud Platform",
+      "status": "active",
+      "priority": "medium",
+      "impact_area": "cloud_edge_behavior"
+    },
+    {
+      "title": "Quantum transition awareness brief",
+      "owner": "Architecture",
+      "status": "planned",
+      "priority": "low",
+      "impact_area": "quantum_preparedness"
+    }
+  ],
+  "evidence_examples": [
+    "Assessment score movement with dated evidence.",
+    "Documented behavior observations from simulations or operational workflows.",
+    "Leadership review notes, action owners, and completed improvement tasks."
+  ],
+  "accent": "#0891b2"
+}

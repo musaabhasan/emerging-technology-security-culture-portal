@@ -1,0 +1,21 @@
+{
+  "name": "musaabhasan/emerging-technology-security-culture-portal",
+  "description": "A readiness portal for aligning security culture with AI, IoT, cloud, edge, quantum, and zero-trust adoption.",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": "^8.2",
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Portal\\": "src/"
+    }
+  },
+  "scripts": {
+    "lint": "php -d display_errors=1 bin/lint.php",
+    "test": "php -d display_errors=1 bin/test.php"
+  }
+}
