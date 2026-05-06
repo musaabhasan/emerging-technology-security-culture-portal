@@ -1,4 +1,4 @@
-﻿# Emerging Technology Security Culture Portal
+# Emerging Technology Security Culture Portal
 
 A readiness portal for aligning security culture with AI, IoT, cloud, edge, quantum, and zero-trust adoption.
 
